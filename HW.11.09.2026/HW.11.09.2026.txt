@@ -1,0 +1,6 @@
+﻿Build started at 20:34...
+1>------ Build started: Project: HW.11.09.2026, Configuration: Debug x64 ------
+1>  HW.11.09.2026.cpp
+1>C:\Users\malen\source\repos\HW.11.09.2026\HW.11.09.2026.cpp(10,1): error C4700: uninitialized local variable 'number' used
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 20:34 and took 01,593 seconds ==========
